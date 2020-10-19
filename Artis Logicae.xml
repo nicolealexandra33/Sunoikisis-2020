@@ -1,0 +1,15 @@
+<text>
+<head>I.</head>
+
+<div><i>b</i>A<i>r</i> Omne B est A <i>b</i>A Omne C est B: <i>Ergo</i> <i>r</i>A Omne C est A.</div>
+
+<div><i>c</i>E Nullum B est A <i>l</i>A Omne C est B: <i>Ergo</i> <i>r</i>E<i>nt</i> Nullum C est A.</div>
+
+<div><i>d</i>A Omne B est A <i>r</i>I Aliquod C est B: <i>Ergo</i> I Aliquod C est A</div>
+
+<div><i>f</i>E Nullum B est A <i>r</i>I Aliquod C est B: <i>Ergo</i> O Aliquod C non est A.</div>
+
+<div>A Omne B est A A Omne C est B: <i>Ergo</i> I Aliquod C est A.</div>
+
+<div>E Nullum B est A A Omne C est B: <i>Ergo</i> O Aliquod C non est A.</div>
+</text>
